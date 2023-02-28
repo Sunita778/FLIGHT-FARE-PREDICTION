@@ -10,7 +10,7 @@ The main goal is to predict the fares of the flights based on different factors 
 The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
 
 ### Dataset:
-https://github.com/Soumenineuron/Flight_Fare_Prediction/tree/main/Data
+https://github.com/Sunita778/FLIGHT-FARE-PREDICTION/tree/master/Dataset
 
 ### Project Various Step
 Data Exploration
@@ -34,7 +34,5 @@ Pycharm
 ### Model Accuracy
 80.07%
 
-### Deployed:
-Deployed on heroku -- https://flight-fare-prediction18.herokuapp.com/
 
-# Thanks!!!
+## Thanks!!!
